@@ -1,2 +1,2 @@
 # Second_hand_car_price_prediction
-Developing a machine learning model for a second-hand car company to predict the pricing of an used vehicle based on the vehicle information such as kms traveled, car age etc.
+This project was designed to assist the valuation and sales teams of a leading second-hand car retailer. Our primary objective was to develop a robust predictive analytics model that could accurately estimate the fair market price of a used vehicle based on its characteristics and usage history
